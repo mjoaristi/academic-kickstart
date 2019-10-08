@@ -18,27 +18,52 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Research Assistant"
+  company = "Boise State University"
+  company_url = "http://coen.boisestate.edu/cs/"
+  location = "Boise"
+  date_start = "2016-01-01"
   date_end = ""
   description = """
-  Responsibilities include:
+   * Research focus on embedding and other representation learning techniques for complex data types."""
+
+[[experience]]
+  title = "Teacher Assistant"
+  company = "Boise State University"
+  company_url = "http://coen.boisestate.edu/cs/"
+  location = "Boise"
+  date_start = "2016-01-01"
+  date_end = ""
+  description = """
+  * CS421 Algorithms (5 semesters)
+  * CS430/530 Parallel Computing (1 semester)
+  * CS321 Data Structures (1 semester)
+  * CS221 Introduction to Computer Science II (1 semester)
+  """
   
-  * Analysing
-  * Modelling
-  * Deploying
+ [[experience]]
+  title = "Research Intern"
+  company = "NEM Solutions"
+  company_url = "https://www.nemsolutions.com/"
+  location = "Donostia"
+  date_start = "2014-10-01"
+  date_end = "2015-07-01"
+  description = """
+  * Research and viability assessment of a project to deploy unmanned autonomous drones to aid in train fleet maintenance.
+  * Development of data science pipeline for the automatic detection of damage in images of train components.
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Research Intern"
+  company = "CEIT-IK4"
+  company_url = "https://www.ceit.es/en/"
+  location = "Donostia"
+  date_start = "2013-07-01"
+  date_end = "2014-07-01"
+  description = """
+  * Study on structure from motion, and simultaneous localization and mapping techniques.
+  * Development of a handheld real-time monocular vSLAM system optimized for augmented reality applications.
+  """
+
 
 +++
